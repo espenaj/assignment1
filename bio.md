@@ -1,7 +1,6 @@
 My Bio
 
-I am a musician. I enjoy hiking and long drives.
-I also enjoy long walks on the beach, sunsets, and looking up at the night sky.
+I am a secret agent. Shh, don't tell anyone!
 
 Programming Background
 
